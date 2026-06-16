@@ -73,7 +73,7 @@ I've always been fascinated by how a few lines of code can turn a simple idea in
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/snehith-3939/TradingCore">
+  <a href="[https://github.com/snehith-3939/TradingCore](https://github.com/snehith-3939/trading-engine-core)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehith-3939&repo=TradingCore&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Trading Core" />
   </a>
   <a href="https://github.com/Vedavarshith868/ShowsNow--DBMS-project">
