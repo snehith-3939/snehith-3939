@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=B.Tech+Mathematics+%26+Computing;AI+%2F+Machine+Learning+Enthusiast;Building+functional+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=B.Tech+MnC+IIT+Indore;AI+%2F+Machine+Learning+Enthusiast;Building+functional+software" alt="Typing SVG" />
 </p>
 
 ---
